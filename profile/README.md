@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://seafarer-cloud.io">
-    <img width="612" alt="Seafarer Cloud Logo" src="./logo.jpg">
+    <img alt="Seafarer Cloud Logo" src="./logo.jpg">
   </a>
 </p>
 
